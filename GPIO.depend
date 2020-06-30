@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1593445117 source:e:\embedded\pic\gpio\gpio.c
+	"GPIO.h"
+
+1593474605 e:\embedded\pic\gpio\gpio.h
+
+1593471880 source:e:\embedded\pic\gpio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"GPIO.h"
+	<pic16f877a.h>
+
